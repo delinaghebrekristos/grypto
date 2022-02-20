@@ -1,0 +1,88 @@
+2022-02-19 17:42:41,559 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:42:41,816 DEBUG:https://rest.coinapi.io:443 "POST /v1/assets HTTP/1.1" 405 0
+2022-02-19 17:42:41,819 DEBUG:<Response [405]>
+2022-02-19 17:42:41,828 INFO:127.0.0.1 - - [19/Feb/2022 17:42:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2022-02-19 17:42:42,241 INFO:127.0.0.1 - - [19/Feb/2022 17:42:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-02-19 17:42:42,272 INFO:127.0.0.1 - - [19/Feb/2022 17:42:42] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-02-19 17:42:42,886 INFO:127.0.0.1 - - [19/Feb/2022 17:42:42] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-02-19 17:42:43,011 INFO:127.0.0.1 - - [19/Feb/2022 17:42:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-02-19 17:42:43,937 INFO:127.0.0.1 - - [19/Feb/2022 17:42:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-02-19 17:44:39,598 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 17:44:44,082 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:44:44,345 DEBUG:https://rest.coinapi.io:443 "POST /v1/assets HTTP/1.1" 405 0
+2022-02-19 17:44:44,345 DEBUG:<Response [405]>
+2022-02-19 17:44:44,345 INFO:127.0.0.1 - - [19/Feb/2022 17:44:44] "GET / HTTP/1.1" 200 -
+2022-02-19 17:45:07,168 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 17:45:12,794 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:45:12,937 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 17:45:13,603 DEBUG:<Response [200]>
+2022-02-19 17:45:13,604 INFO:127.0.0.1 - - [19/Feb/2022 17:45:13] "GET / HTTP/1.1" 200 -
+2022-02-19 17:46:22,649 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 17:46:45,178 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:46:45,469 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 17:46:46,210 DEBUG:<Response [200]>
+2022-02-19 17:46:46,210 INFO:127.0.0.1 - - [19/Feb/2022 17:46:46] "GET / HTTP/1.1" 200 -
+2022-02-19 17:50:26,495 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 17:50:40,637 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:50:40,889 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 17:50:41,727 DEBUG:<Response [200]>
+2022-02-19 17:50:41,729 INFO:127.0.0.1 - - [19/Feb/2022 17:50:41] "GET / HTTP/1.1" 200 -
+2022-02-19 17:51:20,288 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 17:51:24,501 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:51:24,638 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 17:51:25,562 DEBUG:<Response [200]>
+2022-02-19 17:51:25,572 INFO:127.0.0.1 - - [19/Feb/2022 17:51:25] "GET / HTTP/1.1" 200 -
+2022-02-19 17:52:35,620 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 17:52:51,477 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:52:51,665 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 17:52:52,317 DEBUG:<Response [200]>
+2022-02-19 17:52:52,333 INFO:127.0.0.1 - - [19/Feb/2022 17:52:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2022-02-19 17:52:52,579 INFO:127.0.0.1 - - [19/Feb/2022 17:52:52] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-02-19 17:52:52,581 INFO:127.0.0.1 - - [19/Feb/2022 17:52:52] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-02-19 17:52:53,240 INFO:127.0.0.1 - - [19/Feb/2022 17:52:53] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-02-19 17:52:53,368 INFO:127.0.0.1 - - [19/Feb/2022 17:52:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-02-19 17:52:54,504 INFO:127.0.0.1 - - [19/Feb/2022 17:52:54] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-02-19 17:54:15,035 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:54:15,205 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 17:54:15,670 DEBUG:<Response [200]>
+2022-02-19 17:54:15,685 INFO:127.0.0.1 - - [19/Feb/2022 17:54:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2022-02-19 17:54:16,251 INFO:127.0.0.1 - - [19/Feb/2022 17:54:16] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-02-19 17:54:16,265 INFO:127.0.0.1 - - [19/Feb/2022 17:54:16] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-02-19 17:54:16,886 INFO:127.0.0.1 - - [19/Feb/2022 17:54:16] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-02-19 17:54:16,914 INFO:127.0.0.1 - - [19/Feb/2022 17:54:16] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-02-19 17:54:43,564 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 17:54:57,947 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:54:58,094 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 17:54:58,926 DEBUG:<Response [200]>
+2022-02-19 17:54:58,929 INFO:127.0.0.1 - - [19/Feb/2022 17:54:58] "GET / HTTP/1.1" 200 -
+2022-02-19 17:55:46,609 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 17:55:54,303 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:55:54,538 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 17:55:55,322 DEBUG:<Response [200]>
+2022-02-19 17:55:55,336 INFO:127.0.0.1 - - [19/Feb/2022 17:55:55] "GET / HTTP/1.1" 200 -
+2022-02-19 17:56:26,278 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 17:56:33,966 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 17:56:34,103 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 17:56:34,909 DEBUG:<Response [200]>
+2022-02-19 17:56:34,917 INFO:127.0.0.1 - - [19/Feb/2022 17:56:34] "GET / HTTP/1.1" 200 -
+2022-02-19 17:59:52,102 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 18:04:51,881 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 18:04:52,123 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 18:04:52,923 DEBUG:<Response [200]>
+2022-02-19 18:04:52,931 INFO:127.0.0.1 - - [19/Feb/2022 18:04:52] "GET / HTTP/1.1" 200 -
+2022-02-19 18:31:32,891 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 18:48:11,047 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 18:48:11,308 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 18:48:11,887 DEBUG:<Response [200]>
+2022-02-19 18:48:11,899 INFO:127.0.0.1 - - [19/Feb/2022 18:48:11] "GET / HTTP/1.1" 200 -
+2022-02-19 18:48:54,936 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 18:50:30,748 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 18:50:31,114 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 18:50:31,835 DEBUG:<Response [200]>
+2022-02-19 18:50:31,848 INFO:127.0.0.1 - - [19/Feb/2022 18:50:31] "GET /message HTTP/1.1" 200 -
+2022-02-19 19:01:10,383 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
+2022-02-19 19:43:19,591 DEBUG:Starting new HTTPS connection (1): rest.coinapi.io:443
+2022-02-19 19:43:21,392 DEBUG:https://rest.coinapi.io:443 "GET /v1/assets HTTP/1.1" 200 None
+2022-02-19 19:43:22,008 DEBUG:<Response [200]>
+2022-02-19 19:43:22,017 INFO:127.0.0.1 - - [19/Feb/2022 19:43:22] "GET /message HTTP/1.1" 200 -
+2022-02-19 20:01:31,303 INFO: * Detected change in 'C:\\users\\rahel\\documents\\code\\flask-server\\servers.py', reloading
